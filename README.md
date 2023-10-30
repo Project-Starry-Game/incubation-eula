@@ -24,7 +24,7 @@ Feedback
 If End User provides Licensor with any feedback or suggestions for the Application, Licensor shall have the right to use such feedback or suggestions without compensation or credit to the End User.
 
 Contact
-If you have any questions regarding this EULA, please contact us by email at service@projectstarry.com or visit our website at https://projectstarry.com.
+If you have any questions regarding this EULA, please contact us by email at contact@projectstarry.com or visit our website at https://projectstarry.com.
 
 Term and Termination
 This EULA is effective upon End User's acceptance of the terms and conditions herein and shall continue in effect until terminated. End User may terminate this EULA at any time by uninstalling and permanently destroying all copies of the Application in its possession or control. Licensor may terminate this EULA immediately if End User breaches any term or condition of this EULA. Upon termination of this EULA for any reason, End User shall immediately uninstall and permanently destroy all copies of the Application in its possession or control.
